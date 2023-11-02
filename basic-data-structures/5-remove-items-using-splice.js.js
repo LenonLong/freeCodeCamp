@@ -32,4 +32,4 @@ arr.splice(0, 1);
 arr.splice(3, 4)
 
 // Only change code above this line
-console.log(arr);
+console.log(arr); 
